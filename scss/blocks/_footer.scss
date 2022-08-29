@@ -1,0 +1,25 @@
+.footer{
+    width: 1280px;
+    height: 208px;
+    
+    &__list{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-around;
+        gap: 15px;
+    }
+    
+}
+.coffeeroaster{
+    width: 1280px;
+    height: 120px;
+    
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
